@@ -1,3 +1,10 @@
+#This is my prototype note app. I am doing "Learn Python the hard way" and as a part of drills I had to make a program that will read files. 
+#I decided to go further then that.
+#This program takes a text file as a parameter and then asks user to read it or append a note in it.
+#I also imported a datetime module and decided to implement a date of note functionality. 
+#Program appends a date of taken note in a second line of note.
+#tdl : password protection ? , delete note , numeration of notes?!
+
 from sys import argv
 import datetime
 
